@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Havrylenko</h1>
-<h3 align="center">A engrossed golang developer from Ukraine</h3>
+<h3 align="center">An engrossed golang developer from Ukraine</h3>
 
 - 🌱 I’m currently learning **kubernetes**
 
