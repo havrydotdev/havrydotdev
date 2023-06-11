@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Havrylenko</h1>
 <h3 align="center">A engrossed golang developer from Ukraine</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavrylenkoivan" alt="gavrylenkoivan" /></a> </p>
-
 - 🌱 I’m currently learning **kubernetes**
 
 - 📫 How to reach me **havrylenko.inbox@gmail.com**
