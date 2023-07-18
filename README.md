@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Havrylenko</h1>
 <h3 align="center">An engrossed golang developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Next**
 
 - 📫 How to reach me: **havrylenko.inbox@gmail.com**
 
