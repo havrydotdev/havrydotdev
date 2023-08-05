@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **Next**<br><br>📫 How to reach me: **havrylenko.inbox@gmail.com**<br>
+🌱 I’m currently learning **NestJS**<br><br>📫 How to reach me: **havrylenko.inbox@gmail.com**<br>
 
 
 ## 🌐 Socials:
