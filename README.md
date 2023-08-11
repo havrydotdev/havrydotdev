@@ -8,5 +8,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gavrylenkoIvan&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gavrylenkoIvan&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-<a href="https://discord.com/users/420109262312833026"><img align="left" src="https://lanyard.cnrad.dev/api/420109262312833026?borderRadius=8px&hideDiscrim=true"/></a><br/>
