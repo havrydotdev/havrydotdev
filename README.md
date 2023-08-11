@@ -9,8 +9,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gavrylenkoIvan&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<a href="https://discord.com/users/420109262312833026"><img align="left" src="https://lanyard.cnrad.dev/api/420109262312833026?borderRadius=8px&hideDiscrim=true"/></a>
-<br/>
+<a href="https://discord.com/users/420109262312833026"><img align="left" src="https://lanyard.cnrad.dev/api/420109262312833026?borderRadius=8px&hideDiscrim=true"/></a><br/>
 [![](https://visitcount.itsvg.in/api?id=gavrylenkoIvan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
