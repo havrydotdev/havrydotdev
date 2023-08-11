@@ -10,4 +10,3 @@
 
 ---
 <a href="https://discord.com/users/420109262312833026"><img align="left" src="https://lanyard.cnrad.dev/api/420109262312833026?borderRadius=8px&hideDiscrim=true"/></a><br/>
-[![](https://visitcount.itsvg.in/api?id=gavrylenkoIvan&icon=0&color=0)](https://visitcount.itsvg.in)
