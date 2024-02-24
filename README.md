@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **NestJS**<br>📫 How to reach me: **havrylenko.inbox@gmail.com**
+🌱 I’m currently practicing in **Golang**<br>📫 How to reach me: **havrylenko.inbox@gmail.com**
 
 
 # 💻 Tech Stack:
